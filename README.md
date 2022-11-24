@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gabrielsouki](https://medium.com/@gabrielsouki)
 
-- 💬 Ask me about **Unity and C#**
+- 💬 Ask me about **Game Development**
 
 - 📫 How to reach me **gabrielsouki@gmail.com**
 
