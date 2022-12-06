@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Olimpia Tournament🤼‍♂️](https://github.com/soukigabriel/Olimpia-tournament)
 
-- 🌱 I’m currently learning **RPG systems in Unity and C++**
+- 🌱 I’m currently learning **RPG systems in Unity and POO with C++**
 
 - 👨‍💻 All of my projects are available at [https://itch.io/profile/gabrielsouki](https://itch.io/profile/gabrielsouki)
 
